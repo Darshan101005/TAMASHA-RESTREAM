@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tamashaweb.com/images/logo.svg" alt="Tamasha" width="220" />
+  <img src="https://crystalpng.com/wp-content/uploads/2025/10/Tamasha-Logo.png" alt="Tamasha" width="220" />
 
 # TAMASHA Restream Proxy
 
